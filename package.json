@@ -16,6 +16,6 @@
         "globby": "^9.1.0",
         "has-emoji": "^1.1.0",
         "mysql2": "^1.6.5",
-        "sequelize": "^5.2.7"
+        "sequelize": "^5.15.1"
     }
 }
